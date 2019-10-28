@@ -1,7 +1,7 @@
 # Open-Lab-04.03
 (14 XP) A function that removes the first and last letter from a string.
 
-1. Clone this repository to your GitHub account.
+1. Fork this repository to your GitHub account.
 2. Open solution file in Visual Studio.
 3. Open file `StringTools.cs`.
 4. Implement the method `RemoveFirstLast(string original)` that removes the first and last letter from a string.
